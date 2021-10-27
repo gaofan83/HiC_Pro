@@ -9,5 +9,7 @@ cd HiC-Pro-v3.1.0
 mv ../v3.1.0.tar.gz .
 tar -xvzf v3.1.0.tar.gz
 cd HiC-Pro-3.1.0
+make configure
+#make install
 
 ```
